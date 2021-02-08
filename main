@@ -1,3 +1,6 @@
+#from hackerrank.com
+#https://www.hackerrank.com/challenges/30-nested-logic/problem
+
 dueDay=int(input("Enter Scheduled DAY (format from 01 to 31):\n\t"))
 dueMonth=int(input("Enter Scheduled MONTH (format from 01 to 12):\n\t"))
 dueYear=int(input("Enter Scheduled YEAR (format from 1900 to 3000):\n\t"))
