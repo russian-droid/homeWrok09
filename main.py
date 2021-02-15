@@ -10,6 +10,7 @@ actualMonth=int(input("Enter Actual MONTH (format from 01 to 12):\n\t"))
 actualYear=int(input("Enter Actual YEAR (format from 1900 to 3000):\n\t"))
 
 print('THE DUE DATE:', dueDay,dueMonth,dueYear)
+
 print('RETURNED ON:', actualDay,actualMonth,actualYear)
 
 if actualYear > dueYear:
